@@ -99,16 +99,16 @@ const testimonials = [
         company: 'NVIDIA',
         role: 'ML Engineer',
         quote: 'The deep learning projects and GPU lab access here are unmatched. I was job-ready from day one.'
-    }
+    },
     {
-        name: 'omkar dharwadkar',
+        name: 'virat kohli',
         course: 'web',
         company: 'ntg',
         role: 'web engineer',
         quote: 'The deep learning projects and GPU lab access here are unmatched. I was job-ready from day one.'
-    }
+    },
     {
-        name: 'xyx fellow',
+        name: 'rohit sharma',
         course: 'web',
         company: 'ntg',
         role: 'web engineer',
